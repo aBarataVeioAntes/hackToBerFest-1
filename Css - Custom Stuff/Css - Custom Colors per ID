@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Css - Custom Colors per ID</title>
+        <style>
+            
+            #fogo {
+                color: rgb(240, 164, 12);
+            }
+            
+            #gelo {
+                color: rgb(106, 203, 232);
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Mudando a cor de 2 textos do mesmo parâmetro (ID)</h1>
+        
+        <h2 id="fogo">Fogo</h2>
+        <p>Queima ao contato, mas não precisa ser ofensivo, pode ser usado em inúmeras coisas como por exemplo cozinhar e curar feridas.</p>
+        
+        <h2 id="gelo">Gelo</h2>
+        <p>É agradável ao toque e ajuda na cicatrização do corpo ou no resfriamento das coisas, mas assim como o fogo, se o gelo for seco, pode acabar causando uma sensação de queimadura.</p>
+    </body>
+</html>
