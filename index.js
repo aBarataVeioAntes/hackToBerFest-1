@@ -14,6 +14,11 @@ function resposta(req, res){
    });
 }
 
+function hackFoddaste() {
+     var baguiDoido = 5
+     return baguiDoido;
+}
+
 /*var express = require('express');
 var app = express();
 var fs = require('fs');
