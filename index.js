@@ -21,7 +21,10 @@ function hackFoddaste() {
 }
 
 function toTentandoFazerCOias(params) {
-     
+     if(params.length >= 100000000)
+     {
+          fudeu();
+     }
 }
 
 /*var express = require('express');
