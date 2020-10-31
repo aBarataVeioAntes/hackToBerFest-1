@@ -16,7 +16,12 @@ function resposta(req, res){
 
 function hackFoddaste() {
      var baguiDoido = 5
-     return baguiDoido;
+     var naoENaoaaaa = 1000000000000000;
+     return naoENaoaaaa;
+}
+
+function toTentandoFazerCOias(params) {
+     
 }
 
 /*var express = require('express');
