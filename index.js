@@ -29,6 +29,11 @@ function toTentandoFazerCOias(params) {
      }
 }
 
+function praFInalizarDeVeeeeezz(params) {
+     var finalmente = true;
+     return finalmente
+}
+
 /*var express = require('express');
 var app = express();
 var fs = require('fs');
