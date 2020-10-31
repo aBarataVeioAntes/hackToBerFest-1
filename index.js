@@ -19,7 +19,9 @@ function hackFoddaste() {
      var naoENaoaaaa = 1000000000000000;
      return naoENaoaaaa;
 }
-
+function fudeu(aaaa) {
+     return console.log(500);
+}
 function toTentandoFazerCOias(params) {
      if(params.length >= 100000000)
      {
